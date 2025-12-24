@@ -1,0 +1,14 @@
+/* App.css */
+.landing-page {
+  /* Replace with the actual path or URL to your image */
+  background-image: url('https://img.freepik.com/free-photo/monstera-deliciosa-plant-pot_53876-133135.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
